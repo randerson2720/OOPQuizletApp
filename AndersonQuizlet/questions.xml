@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>c</string>
+    </void>
+    <void property="question">
+     <string>The relationship between Laptop and Screen can best be categorized as</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>d</string>
+    </void>
+    <void property="question">
+     <string>Which one of these is not a purpose of information hiding in object-oriented programming?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>a</string>
+    </void>
+    <void property="question">
+     <string>The relationship between Bayonet and Weapon could best be described as</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>b</string>
+    </void>
+    <void property="question">
+     <string>Which of the following is not true of the relationship composition?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>b</string>
+    </void>
+    <void property="question">
+     <string>In the relationship between Hammer and Tool, which of the following is correct?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>d</string>
+    </void>
+    <void property="question">
+     <string>Which of the following is a false statement?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>c</string>
+    </void>
+    <void property="question">
+     <string>Which of the following is false about an abstract class?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>a</string>
+    </void>
+    <void property="question">
+     <string>Why is polymorphism powerful?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>c</string>
+    </void>
+    <void property="question">
+     <string>Why do we write public get and set functions?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>b</string>
+    </void>
+    <void property="question">
+     <string>One problem associated with software development is rigidity, which means</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>c</string>
+    </void>
+    <void property="question">
+     <string>Which pattern tries to make it easier to create a variety of related objects?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>a</string>
+    </void>
+    <void property="question">
+     <string>Which pattern tries to avoid mixing the storage of data and how it is displayed?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>b</string>
+    </void>
+    <void property="question">
+     <string>Which pattern often uses a private constructor and static functions as part of its design?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>c</string>
+    </void>
+    <void property="question">
+     <string>Which pattern often uses aggregation or composition to enable an owner to perform a task by asking for help from the things it owns?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>b</string>
+    </void>
+    <void property="question">
+     <string>Which pattern is used particularly to ensure consistency across multiple threads?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>a</string>
+    </void>
+    <void property="question">
+     <string>Which concepts enable the Factory pattern to be particularly useful?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>a</string>
+    </void>
+    <void property="question">
+     <string>Which of the following is a false statement?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>b</string>
+    </void>
+    <void property="question">
+     <string>The Dependency Inversion Principle focuses on</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>d</string>
+    </void>
+    <void property="question">
+     <string>Which principle advises us to be as focused and specific as possible in grouping together behaviors?</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Question">
+    <void property="answer">
+     <string>c</string>
+    </void>
+    <void property="question">
+     <string>Which principle helps us avoid designing classes that try to do too much?</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
